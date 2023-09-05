@@ -1,2 +1,2 @@
 # Organizador_RoR
-Project for RoR platzi courze
+Project for RoR platzi course
