@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -22,3 +23,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+=======
+# Organizador_RoR
+Project for RoR platzi course
+>>>>>>> 6b2c95f0f1e081d34f7bd87838e20c709ebc7f4d
