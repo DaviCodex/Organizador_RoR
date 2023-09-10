@@ -10,4 +10,9 @@ en:
       description: Description
       name: Name
     new_category: Nueva Categoría
+  common:
+    back: Atrás
   hello: Hello world
+  tasks:
+    errors:
+      invalidity_due_date: Invalidity due date

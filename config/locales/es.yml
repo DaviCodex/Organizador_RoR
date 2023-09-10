@@ -13,3 +13,6 @@ es:
   common:
     back: Atrás
   hello: Hello world
+  tasks:
+    errors:
+      invalidity_due_date: Fecha no valida
